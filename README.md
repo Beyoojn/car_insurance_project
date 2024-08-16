@@ -17,11 +17,14 @@ To increase the conversion rate of potential customers interested in vehicle ins
 
 ## Objective
 
-1. <b>Identify Key Influencing Factors:<b> Analyze customer data to pinpoint the variables or features that most significantly impact their interest in vehicle insurance products.<br>
+1. <b>Identify Key Influencing Factors:<b>
+   Analyze customer data to pinpoint the variables or features that most significantly impact their interest in vehicle insurance products.<br>
 
-2. <b>Customer Segmentation:<b> Segment customers based on predicted interest levels to enable more personalized and effective marketing campaigns.<br>
+3. <b>Customer Segmentation:<b>
+   Segment customers based on predicted interest levels to enable more personalized and effective marketing campaigns.<br>
 
-3. <b>Optimize Marketing Strategies:<b> Use insights from data analysis to refine marketing efforts, ensuring they are more aligned with the identified customer segments and their specific interests.<br>
+4. <b>Optimize Marketing Strategies:<b>
+   Use insights from data analysis to refine marketing efforts, ensuring they are more aligned with the identified customer segments and their specific interests.<br>
 
 ## Business Metric 
 
